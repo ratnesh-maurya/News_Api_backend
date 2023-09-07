@@ -1,12 +1,13 @@
 import json
 from flask import Flask,request,jsonify
 
+#add comments 
+
 app=Flask(__name__)
-#C:\Harshit\Python\Api project\
+
 filename="data.json"
 with open(filename) as json_file:
     Education_data = json.load(json_file)
-# print(data)
 
 @app.route("/news")
 
