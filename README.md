@@ -88,3 +88,8 @@ Join us in this enchanting journey! If you'd like to contribute your wizardry to
 ## 📜 License
 
 This project is enchanted under the [MIT License](LICENSE). Feel free to spread the magic! 🪄📚
+
+# :handshake: Our Contributors
+<a href="https://github.com/ratnesh-maurya/News_Api_backend/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ratnesh-maurya/News_Api_backend" />
+</a>
