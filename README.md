@@ -1,6 +1,6 @@
 
 # 📰 News Backend API
-
+This is made to demonstrate basically how api works
 This is a super cool backend API 🚀 for retrieving news articles in the categories of "crime" 🔍 and "sport" 🏆.
 
 ## 🌟 Introduction
